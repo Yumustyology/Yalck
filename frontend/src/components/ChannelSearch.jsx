@@ -3,6 +3,7 @@ import { useChatContext } from "stream-chat-react";
 
 import { ResultsDropdown } from "./";
 import { SearchIcon } from "../assets";
+import {FiSearch} from 'react-icons/fi'
 
 const ChannelSearch = ({ setToggleContainer }) => {
   const { client, setActiveChannel } = useChatContext();
