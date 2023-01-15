@@ -4,8 +4,8 @@ import Cookies from 'universal-cookie';
 import { FaHospitalAlt } from "react-icons/fa";
 import { BiLogOut } from "react-icons/bi";
 import { ChannelSearch, TeamChannelList, TeamChannelPreview } from './';
-import HospitalIcon from '../assets/hospital.png'
-import LogoutIcon from '../assets/logout.png'
+// import HospitalIcon from '../assets/hospital.png'
+// import LogoutIcon from '../assets/logout.png'
 
 const cookies = new Cookies();
 
